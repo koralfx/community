@@ -1,0 +1,25 @@
+{
+  "slug": "KoralfxVCV",
+  "name": "KoralfxVCV",
+  "author": "Tomek Sosnowski",
+  "license": "BSD 3-clause",
+  "version": "0.6.1",
+  "homepage": "https://github.com/koralfx/KoralfxVCV/",
+  "donation": "https://www.paypal.me/koralfx/",
+  "manual": "https://github.com/koralfx/KoralfxVCV/blob/master/README.md",
+  "source": "https://github.com/koralfx/KoralfxVCV/",
+  "downloads": {
+    "win": {
+      "download": "https://github.com/koralfx/KoralfxVCV/releases/download/0.6.1/KoralfxVCV-0.6.1-win.zip",
+      "sha256": "4bd1ed15ec9372ec52cb3e185ec879e030df6bd22d10e6735455e3e58a1f0a2c"
+    },
+    "lin": {
+      "download": "https://github.com/koralfx/KoralfxVCV/releases/download/0.6.1/KoralfxVCV-0.6.1-lin.zip",
+      "sha256": "bbcea9efed894fb4620e0af950e904a0096161c84e2a513b32e86a34b24dbc5c"
+    },
+    "mac": {
+      "download": "https://github.com/koralfx/KoralfxVCV/releases/download/0.6.1/KoralfxVCV-0.6.1-mac.zip",
+      "sha256": "59399f0ac12eb3c098bc101b3bdda8f5fd6a156e45f155c5e655d47193e21f99"
+    }
+  }
+}
